@@ -1,7 +1,6 @@
 Hello World! I changed nothing.
 I am coming back again.
 line 3
-line 4
 back again
 probably edit at different places
 line 5
